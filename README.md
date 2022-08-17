@@ -37,5 +37,4 @@ npm start
 
 ![1660726478458](assets/1660726478458.png)
 
-![1660726483805](assets/1660726483805.png)# book-curd-example
-"# book-curd-example" 
+![1660726483805](assets/1660726483805.png)
